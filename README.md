@@ -39,12 +39,5 @@ and more Tools i don't find in github 😀
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Amir-Alipour GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Amir-Alipour&show_icons=true&hide_border=true" />
-
-</details>
-
 [instagram]: https://instagram.com/amir1.dev/
 [webdevplaylist]: https://www.github.com/Amir-Alipour
