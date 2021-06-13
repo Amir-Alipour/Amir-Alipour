@@ -39,8 +39,6 @@ and more Tools i don't find in github 😀
 
 ---
 
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
