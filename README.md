@@ -5,7 +5,8 @@
 - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- ⚡ 17 years old from Iran/Guilan
+- ☔ From Iran/Guilan
+- ⚡ Fun fact: I’m likes photography and digital arts
 
 ### Connect with me:
 
