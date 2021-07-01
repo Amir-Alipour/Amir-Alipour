@@ -8,7 +8,7 @@
 - ☔ From Iran/Guilan
 - ⚡ Fun fact: I’m likes photography and digital arts
 
-### Connect with me:
+### Social Media:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
