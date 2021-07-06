@@ -40,7 +40,7 @@
 
 <br /><br />
 
-and more Tools i don't find in github 😀
+and more Tools i don't find in github
 
 ---
 
