@@ -1,4 +1,4 @@
-### Hi there, I'm Amir - Alipour 👋
+### Hi there, I'm Amir - Alipour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Developer, and student!!
 
@@ -43,6 +43,11 @@
 and more Tools i don't find in github
 
 ---
+
+<p align="center">
+        <img title="Amir Alipour streak" alt="Amir Alipour streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-alipour&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
 
 [instagram]: https://instagram.com/amir1.dev/
 [links]: https://github.com/Amir-Alipour?tab=repositories
