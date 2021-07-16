@@ -33,14 +33,14 @@
 
 and more ..
 
-<br />
+------
 
----
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
-<p align="center">
-        <img title="Amir Alipour streak" alt="Amir Alipour streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-alipour&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
+<img align="left" alt="Amir's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-alipour" />
 
+</details>
 
 [instagram]: https://instagram.com/amir1.dev/
 [links]: https://github.com/Amir-Alipour?tab=repositories
