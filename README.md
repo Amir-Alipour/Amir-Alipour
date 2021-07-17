@@ -33,14 +33,6 @@
 
 and more ..
 
-------
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Amir's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-alipour" />
-
-</details>
 
 [instagram]: https://instagram.com/amir1.dev/
 [links]: https://github.com/Amir-Alipour?tab=repositories
