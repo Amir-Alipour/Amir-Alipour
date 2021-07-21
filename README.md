@@ -8,9 +8,11 @@
 - ☔ From Iran/Guilan
 - ⚡ Fun fact: I’m likes photography and digital arts
 
-### Social Media:
+### Connection:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="amir - alipour | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+
+[<img align="left" alt="amir - alipour | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][gmail]
 
 <br />
 
@@ -35,4 +37,5 @@ and more ..
 
 
 [instagram]: https://instagram.com/amir1.dev/
+[gmail]: mailto:alipour1dev@gmail.com
 [links]: https://github.com/Amir-Alipour?tab=repositories
