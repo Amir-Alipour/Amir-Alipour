@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir - Alipour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Developer, and student!!
+## I'm a Developer, and Designer!!
 
 - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
