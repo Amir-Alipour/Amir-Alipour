@@ -1,4 +1,4 @@
-<!-- ### Hi there, I'm Amir - Alipour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Amir - Alipour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Developer, and Designer!!
 
@@ -41,10 +41,10 @@ and more ..
 
 [instagram]: https://instagram.com/amir1.dev/
 [gmail]: mailto:alipour1dev@gmail.com
-[links]: https://github.com/Amir-Alipour?tab=repositories -->
+[links]: https://github.com/Amir-Alipour?tab=repositories
 
 
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73488911/143733730-c0de3ed6-83f9-4634-80a0-379b613b78ab.gif)
+<!-- ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73488911/143733730-c0de3ed6-83f9-4634-80a0-379b613b78ab.gif) -->
 
 
