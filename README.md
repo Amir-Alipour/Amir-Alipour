@@ -21,8 +21,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][links]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][links]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][links]
-[<img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][links]![143733655-428bdc32-32f8-4066-9e9b-26cd6938a52c](https://user-images.githubusercontent.com/73488911/143733668-e86398b2-8bfd-4d95-a3ba-12c4c2cce25d.gif)
-
+[<img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][links]
 [<img align="left" alt="material-ui" width="26px" src="https://mui.com/static/icons/180x180.png" />][links]
 [<img align="left" alt="uikit" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/uikit-285322.png" />][links]
 [<img align="left" alt="boostrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][links]
