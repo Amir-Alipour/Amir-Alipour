@@ -1,14 +1,17 @@
 ### Hi there, I'm Amir - Alipour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Developer, and Designer!!
+Developer and Designer ..
 
-- 🔭 I just practice day by day!
+Building things in JavaScript - mostly working with React, Redux, Nodejs. <br/>
+
+To get in touch, feel free to message me on [email][gmail]
+<!-- - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - ☔ From Iran/Guilan
-- ⚡ Fun fact: I’m likes photography and digital arts
+- ⚡ Fun fact: I’m likes photography and digital arts -->
 
-### Connection:
+<!-- ### Connection:
 
 [<img align="left" alt="amir - alipour | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
@@ -36,7 +39,7 @@
 [<img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />][links]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][links]
 
-and more ..
+and more .. -->
 
 [instagram]: https://instagram.com/amir1.dev/
 [gmail]: mailto:alipour1dev@gmail.com
