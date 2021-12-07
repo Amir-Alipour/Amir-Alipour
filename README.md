@@ -4,7 +4,7 @@ Developer and Designer ..
 
 Building things in JavaScript - mostly working with React, Redux, Nodejs. <br/>
 
-To get in touch, feel free to message me on [email][gmail]
+message me on [email][gmail]
 <!-- - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
