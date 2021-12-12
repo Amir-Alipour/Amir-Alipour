@@ -2,9 +2,9 @@
 
 Developer and Designer ..
 
-Building things in JavaScript - mostly working with React, Redux, Nodejs. <br/>
+i likes Building things in JavaScript - mostly focusing on React, Redux, Nodejs. <br/>
 
-message me on [email][gmail]
+[email][gmail]
 <!-- - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
