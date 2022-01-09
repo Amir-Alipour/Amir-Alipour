@@ -2,7 +2,7 @@
 
 Developer and Designer ..
 
-i likes Building things in JavaScript - mostly focusing on React, Redux, Nodejs. <br/>
+i likes Building things in JavaScript - mostly focusing on Typescript, React, Redux & Nodejs. <br/>
 
 [email][gmail]
 <!-- - 🔭 I just practice day by day!
