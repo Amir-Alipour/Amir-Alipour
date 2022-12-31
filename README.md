@@ -2,9 +2,9 @@
 
 Developer and Designer ..
 
-i Build things with JavaScript, Dart - mostly focusing on Flutter & React <br/>
+i Build things with JavaScript, TypeScript - mostly focusing on React <br/>
 
-[email][gmail]
+<b>[Email][gmail]</b>
 <!-- - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
