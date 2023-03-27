@@ -6,8 +6,15 @@
 
 i build diffrent things like Web App - Bots - Package - Web Crawler & ...
 
-## <b>[Email][gmail]</b>
-<!-- - 🔭 I just practice day by day!
+
+
+feel free to message me on <b>[Email][gmail]</b>
+
+
+
+
+<!-- ---------------------------------------
+ - 🔭 I just practice day by day!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - ☔ From Iran/Guilan
