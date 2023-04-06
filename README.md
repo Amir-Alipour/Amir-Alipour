@@ -4,7 +4,7 @@
 
 ### i Build things with JavaScript, TypeScript - mostly focusing on React <br/>
 
-i build diffrent things like Web App - Bots - Package - Web Crawler & ...
+i build diffrent things like Web App - Package - Web Crawler - Bots & ...
 
 
 
