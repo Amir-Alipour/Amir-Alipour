@@ -1,9 +1,8 @@
-## Hi there, I'm Amir - Alipour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+ **Hi there, I'm Amir - Alipour** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-### Developer and Designer ..
+ Developer and Designer ..
 
-### i Build things with JavaScript, TypeScript - mostly focusing on React <br/>
-
+i Build things with JavaScript, TypeScript - mostly focusing on React <br/>
 i build diffrent things like Web App - Package - Web Crawler - Bots & ...
 
 
