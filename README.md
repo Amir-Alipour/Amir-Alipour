@@ -1,8 +1,8 @@
  **Hi there, I'm Amir - Alipour** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
-Building things with JavaScript, TypeScript - mostly focusing on React & Next.js <br/>
-building diffrent things like Web App - Package - Web Crawler - Bots & ...
+Building stuff with JavaScript and TypeScript — mostly focusing on React.js and Next.js </br>
+building different things like web apps, web crawlers, etc.
 
 
 
