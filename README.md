@@ -5,6 +5,3 @@ Web Developer | TypeScript & Python | AI Enthusiast
 feel free to message me on <b>[Email][gmail]</b>
 
 [gmail]: mailto:amir1alipour@gmail.com
-
-
-2026-01-18 - Iran
